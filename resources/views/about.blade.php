@@ -11,14 +11,14 @@
     <title>Laravel</title>
 </head>
 <body>
-    <header class="py-4 bg-body-secondary">
+    <header class="py-4 bg-body-secondary ">
         <ul class="d-flex justify-content-center list-unstyled">
-            <li class="mx-2"><a class="btn btn-primary" href="/">Home</a></li>
-            <li class="mx-2"><a class="btn btn-outline-primary" href="/about">About</a></li>
+            <li class="mx-2"><a class="btn btn-outline-primary" href="/">Home</a></li>
+            <li class="mx-2"><a class="btn btn-primary" href="/about">About</a></li>
         </ul>
     </header>
     <main class="container text-center mt-4">
-        <h1>Hello World</h1>
+        <h1>About</h1>
     </main>
 
 </body>
