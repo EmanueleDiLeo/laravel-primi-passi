@@ -18,7 +18,8 @@
         </ul>
     </header>
     <main class="container text-center mt-4">
-        <h1>About</h1>
+        <h1>{{$title}}</h1>
+        <p>{{$message}}</p>
     </main>
 
 </body>

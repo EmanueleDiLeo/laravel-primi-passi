@@ -18,7 +18,7 @@
         </ul>
     </header>
     <main class="container text-center mt-4">
-        <h1>Hello World</h1>
+        <h1>{{$title}}</h1>
     </main>
 
 </body>
